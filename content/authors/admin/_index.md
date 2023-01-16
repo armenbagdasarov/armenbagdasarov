@@ -2,11 +2,7 @@
 avatar_filename: me.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - EEG
-  - Microstates
-  - Psychopathology
-  - Children
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,6 +40,5 @@ title: Armen Bagdasarov
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a third-year Ph.D. student in clinical psychology at Duke University, where I work with Dr. Michael S. Gaffrey in the Duke Early Experience and the Developing Brain (DEED) Lab. I received my B.A. in psychology at the University of Pennsylvania in 2018. Following, I completed the two-year Sara S. Sparrow Fellowship in Clinical Neuroscience at the Yale Child Study Center. I am also a National Science Foundation Graduate Research Fellow.
 {style="text-align: justify;"}
