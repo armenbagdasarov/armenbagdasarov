@@ -1,7 +1,6 @@
 ---
 avatar_filename: me.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests: []
 social:
   - icon: envelope
