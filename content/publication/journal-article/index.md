@@ -21,7 +21,13 @@ slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
-authors: []
+authors:
+  - Armen Bagdasarov
+  - Kenneth Roberts
+  - Lucie Bréchet
+  - Denis Brunet
+  - Christoph M Michel
+  - Michael S Gaffrey
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -30,7 +36,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 publication: "*Developmental Cognitive Neuroscience*"
-featured: false
+featured: true
 date: 2022-10-01T16:10:00.000Z
 url_slides: ""
 title: "Spatiotemporal dynamics of EEG microstates in four- to eight-year-old
@@ -41,6 +47,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: img_6339.jpg
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
