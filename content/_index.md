@@ -34,7 +34,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Education
+      title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
