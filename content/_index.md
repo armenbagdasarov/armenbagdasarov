@@ -193,7 +193,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Send me a message! I will get it directly to my email. 
+        Send me a message! I will get it directly to my email
       # Contact (add or remove contact options as necessary)
       email: armen.bagdasarov@duke.edu
       # Automatically link email and phone or display as text?
