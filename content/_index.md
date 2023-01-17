@@ -47,7 +47,7 @@ sections:
         - title: PhD in Clinical Psychology
           company: Duke University
           company_url: ''
-          company_logo: duke_logo
+          company_logo: org-gc
           location: Durham, North Carolina, USA
           date_start: '2020-08-01'
           date_end: '2026-05-01'
@@ -55,7 +55,7 @@ sections:
         - title: BA in Psychology
           company: University of Pennsylvania
           company_url: ''
-          company_logo: penn_logo
+          company_logo: org-x
           location: Philadelphia, Pennsylvania, USA
           date_start: '2014-08-01'
           date_end: '2018-05-01'
