@@ -1,68 +1,50 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+abstract: The ultrafast spatiotemporal dynamics of large-scale neural networks
+  can be examined using resting-state electroencephalography (EEG) microstates,
+  representing transient periods of synchronized neural activity that evolve
+  dynamically over time. In adults, four canonical microstates have been shown
+  to explain most topographic variance in resting-state EEG. Their temporal
+  structures are age-, sex- and state-dependent, and are susceptible to
+  pathological brain states. However, no studies have assessed the spatial and
+  temporal properties of EEG microstates exclusively during early childhood, a
+  critical period of rapid brain development. Here we sought to investigate EEG
+  microstates recorded with high-density EEG in a large sample of 103,
+  4–8-year-old children. Using data-driven k-means cluster analysis, we show
+  that the four canonical microstates reported in adult populations already
+  exist in early childhood. Using multiple linear regressions, we demonstrate
+  that the temporal dynamics of two microstates are associated with age and sex.
+  Source localization suggests that attention- and cognitive control-related
+  networks govern the topographies of the age- and sex-dependent microstates.
+  These novel findings provide unique insights into functional brain development
+  in children captured with EEG microstates.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "2"
+authors: []
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: ""
+url_source: ""
+url_video: ""
+publication: "*Developmental Cognitive Neuroscience, 1*(1)"
+featured: false
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+title: "Spatiotemporal dynamics of EEG microstates in four- to eight-year-old
+  children: Age- and sex-related effects"
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+doi: ""
 ---
 
 {{% callout note %}}
