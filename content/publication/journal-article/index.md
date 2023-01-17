@@ -31,7 +31,7 @@ url_source: ""
 url_video: ""
 publication: "*Developmental Cognitive Neuroscience*"
 featured: false
-date: 2015-09-01T00:00:00.000Z
+date: 2023-01-17T03:37:26.784Z
 url_slides: ""
 title: "Spatiotemporal dynamics of EEG microstates in four- to eight-year-old
   children: Age- and sex-related effects"
